@@ -10,7 +10,9 @@ The plugin includes prism syntax highlighter on your pages. Add the component to
 {% component 'syntaxed' %}
 ```
 
-There are no Component Settings yet all code syntax goes in the CMS markup as shown below:
+The only Component Setting is theme. You can select different themes. 
+
+All code syntax goes in the CMS markup as shown below:
 
 <p> CSS Highlighted Code </p>
 
