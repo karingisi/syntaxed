@@ -34,3 +34,5 @@ There are no Component Settings yet all code syntax goes in the CMS markup as sh
     }
 </code></pre>
 ```
+Link to Github Repository
+<a href="https://github.com/karingisi/syntaxed">https://github.com/karingisi/syntaxed</a>
