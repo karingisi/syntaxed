@@ -1,6 +1,7 @@
 syntaxed-plugin
 ===============
 
+[![Code Climate](https://codeclimate.com/repos/578f1aa0a807416f490006c6/badges/2d92ff9b148a6334118a/gpa.svg)](https://codeclimate.com/repos/578f1aa0a807416f490006c6/feed)
 ##A simple code syntax highlighter for October CMS.
 
 
